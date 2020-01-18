@@ -1,6 +1,3 @@
-
-
-
 h1{
 	font-family: 'Montserrat', sans-serif;
 	font-size: 3rem;
@@ -24,11 +21,6 @@ p{
 }
 
 /*Navigation bar*/
-
-.line{
-	margin-top: 15px;
-	color: #8f8f8f;
-}
 
 .navbar{
 	padding: 0 0 4.5rem;
@@ -77,11 +69,17 @@ p{
 
 @media (max-width:1028px) {
 
+	.nav-link{
+		padding-top: 2%;
+		text-align: right;
+	}
+
 	#title{
 		text-align: center;
 	}
 
 	.title-image{
+		padding: 10% 0;
 		position: static;
 		transform: rotate(0);
 	}
