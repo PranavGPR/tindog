@@ -1,3 +1,4 @@
 # Tindog
 
-[https://pranavgpr.github.io/tindog/](Live Demo)
+[Live Demo](https://pranavgpr.github.io/tindog/)
+
